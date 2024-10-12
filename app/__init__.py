@@ -3,7 +3,6 @@ from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 from flask_migrate import Migrate
 from flask_httpauth import HTTPBasicAuth
-#from flask_admin import Admin
 
 # Configuração do log da aplicação
 logging.basicConfig(format='%(asctime)s - %(message)s', filename="log/app.log", level=logging.INFO)
