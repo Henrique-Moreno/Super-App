@@ -45,7 +45,7 @@
 <h2 id="como-rodar-a-aplicação-localmente">Como Rodar a Aplicação Localmente</h2>
 <ol>
     <li>Clone este repositório:
-        <pre><code>git clone https://github.com/Henrique-Moreno/Super-App.git
+        <pre><code>git clone https://github.com/Super-App.git
         </code></pre>
     </li>
     <li>Instale as dependências:
